@@ -19,3 +19,5 @@ goto source, goto my_secret variable and put your discord token thats in your se
 Save and run, script will automatically download the database file to where your py file is locally (same folder)
 
 Once it says "Loaded" in the terminal, you are now free to use it in your server :)
+
+main7.py IS THE ONE YOU RUN
